@@ -250,13 +250,9 @@ ul li a {
     margin-top: 100px;
     display: flex;
     gap: 100px;
-    justify-content: space-between;
+    justify-content: auto;
     background-color: #fff8f3;
-    padding: 5vw 14vw;
-}
-
-.contact-section h2 {
-    text-align: center;
+    padding: 7vw 14vw;
 }
 
 .contact-section input[type="text"],
@@ -318,7 +314,7 @@ input {
         height: 8vw;
     }
     .image-1 {
-        margin-left: -18vw;
+        margin-left: -23vw;
     }
     .skills-container {
         flex-direction: column;
